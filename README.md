@@ -1,6 +1,6 @@
 [![MasterHead](https://d2qwbanb5efhgf.cloudfront.net/x0kw7m%2Fpreview%2F59823236%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1722661929&Signature=SaMwzxLuI09ssaFpJmCQ8MuhLAFeAH9Jc~2irhFfLQLVQIGtPLO-loFZdX8ulweiMH6gqgXCQN8ipZjExjAPM~JtJ6-5KWDhqdQVSKaMrmtMMV~Y8cG4y4IGy~rRDRVtHi~Ppt1rSQtEZvUDWeptOJ1OwzCzepAt9~iY0Gb7yqc2x-6r8rYjDaPvx2fA4L3DYWbbgPe3HIpFUj9DPbw7OboQBESCkG3dRvSOZyhYfi32kgC~EE8BpnnJyDR65NzVH2oM4RItvzTHDhtrXPZNMeAKvDofM9BJmsgLmZb~J0PW~AeZNCC2iPNJJ-VvqO4T7vba~OiKMXrqNa34M9x-mA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, "Welcome to My GitHub Profile!"</h1>
-<h3 align="center">I'm Mayank ,Passionate About Coding, Data, and Building the Future</h3>
+<h3 align="center">I'm Mayank, Passionate About Coding, Data, and Building the Future</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankluthyagi&label=Profile%20views&color=0e75b6&style=flat" alt="mayankluthyagi" /> </p>
