@@ -1,30 +1,109 @@
-[![MasterHead](https://d2b51ty6e7cgah.cloudfront.net/a529lo%2Fpreview%2F59933846%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1723109575&Signature=h0Ynvt~Cvzpvt33WxOq1wCbzCqVRZa4c3e7Y6nClyu7p2PSn8zcEqeZkW73JnhkvYaIleyJk0aaGwUf~hMH29ruYvjuhCrBuA2RwjxHkya72zJvJ1fpHN~tX4eKMS7s6eA~uABUykYa8NrUADhVNo1NnWAuLWPjVQ7fl~CKjWsPX~g~KzB54LX-sSL5pqrCjSPD13PZ4C-k2RpzB0IA4HyyYxixc1GxPL-5Nn6wcCOuQpnQZeS1ZgWBunZPZCYnxweuyLpvhFga0AktcnsDrEAi~8RMne62llaA9lZjL~pHn4VS1R3OMMxx4aEpyyqeiMnj50Ne4Wt9o4rPd0TM~3A__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, "Welcome to My GitHub Profile!"</h1>
-<h3 align="center">I'm Mayank, Passionate About Coding, Data, and Building the Future</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankluthyagi&label=Profile%20views&color=0e75b6&style=flat" alt="mayankluthyagi" /> </p>
+![linkedin header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
 
-- 📗 I’m currently learning - **Android Development**
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Mayank....;I'm+a+Spring+Developer;Nice+to+meet+you!&center=true&size=25">
+  </a>
+</h1>
 
-- 👨‍💻 My Projects - [https://github.com/MayankLuthyagi?tab=repositories](https://github.com/MayankLuthyagi?tab=repositories)
+<img align="right" alt="cheemsCoder" src = "https://user-images.githubusercontent.com/73928744/141654531-109887e4-1142-474e-ac70-8540f7a24f70.png"></p>
 
-- 📧 My Email - **mayankluthyagico@gmail.com**
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=MayankLuthyagi&label=Profile%20views&color=6805D3&style=flat" alt="Adarsh L K" /> </p></h3>
+   <div align="center">
 
-- 📄 My Resume - [https://resume-mayank.tiiny.site](https://resume-mayank.tiiny.site)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mayank012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-singh-010a58238/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mayankluthyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mayankluthyagi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/mayankluthyagi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/mayankluthyagico/" height="30" width="40" /></a>
+- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
+- 🌱 Trying to become an expert in Fullstack development ❤
+- 💻 I love exploring new tech stacks and building cool stuff.
+- 📰 Reading tech documentation whenever possible.
+- 🥅 2024 Goals: Learn Cloud on AWS and Devops.
+- ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
+
+
+<br />
+
+<h1>Technical Skills 🛠</h1>
+ 
+
+<p align="center"> 
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
+ <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+ <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+ <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+ <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+ <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+ <img alt="scikit learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />  
+ <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
+ <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+ <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+ <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+ <img alt="PostgreSql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+ <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+    <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+    <img alt="Kubernets" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+     
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankluthyagi&show_icons=true&locale=en&layout=compact" alt="mayankluthyagi" /></p>
+I believe in implementing the knowledge which you have. Projects play a significant role in showcasing your skills. They help in predicting the skills of a person. 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankluthyagi&show_icons=true&locale=en" alt="mayankluthyagi" /></p>
+<br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankluthyagi&" alt="mayankluthyagi" /></p>
+ <h1 align="center">Let's Get Connected</h1>
+
+<div align="center">
+
+<a  href="https://www.linkedin.com/in/mayank012" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/MayankLuthyagi" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="mailto:erlkadarsh@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a  href="https://t.me/MayankLuthyagi"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a  href="https://discord.com/users/MayankLuthyagi"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a  href="https://www.twitter.com/adarshkdev/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=Twiiter&logoColor=white"></a>
+<a  href="https://MayankLuthyagi.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+
+<br />
+    
+
+### **Thanks for checking out my GitHub Profile!** 🙏
+
+
+<br />
+
+[![An image of @MayankLuthyagi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/MayankLuthyagi)](https://holopin.io/@MayankLuthyagi)
+
+<br />
+
+![](https://ForTheBadge.com/images/badges/built-with-love.svg)
+
+![](https://img.shields.io/github/followers/MayankLuthyagi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
+
+
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MayankLuthyagi&theme=onedark) -->
+
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
+
+<!--<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=MayankLuthyagi&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankLuthyagi&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>-->
+
+
+![](https://github.com/MayankLuthyagi/MayankLuthyagi/blob/main/bottom_header.svg)
+
+<p align="center"> With ❤️ from India </p>
