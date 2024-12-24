@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola+Amigo!+👋;This+is+Mayank....;I'm+a+Spring+Developer;Nice+to+meet+you!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola+Amigo!+👋;कैसे+हो,+ठीक+हो?;My+name+is+Mayank....;I'm+a+Software+Developer;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
 
@@ -46,9 +46,6 @@
      
 </p>
 
-
-I believe in implementing the knowledge which you have. Projects play a significant role in showcasing your skills. They help in predicting the skills of a person. 
-
 <br />
 
  <h1 align="center">Let's Get Connected</h1>
@@ -56,29 +53,26 @@ I believe in implementing the knowledge which you have. Projects play a signific
 <div align="center">
 
 <a  href="https://www.linkedin.com/in/mayank012" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/MayankLuthyagi" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:erlkadarsh@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a  href="https://t.me/MayankLuthyagi"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a  href="https://discord.com/users/MayankLuthyagi"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a  href="https://www.twitter.com/adarshkdev/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=Twiiter&logoColor=white"></a>
-<a  href="https://MayankLuthyagi.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+<a href="mailto:mayankluthyagico@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a  href="https://leetcode.com/u/mayankluthyagi/"><img alt="Leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor="/></a>
+<a  href="https://www.codechef.com/users/mayank_singh12"><img alt="CodeChef" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
+<a  href="https://www.figma.com/@mayank_singh"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
+<a href="https://x.com/MayankLuthyagi" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 
 <br />
     
 
 ### **Thanks for checking out my GitHub Profile!** 🙏
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MayankLuthyagi&theme=dark&show_icons=true&icon_color=blue" style="display: inline-block; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankLuthyagi&theme=dark&show_icons=true&count_private=true" style="display: inline-block; height: 200px;" />
+</p>
 
-<br />
-
-[![An image of @MayankLuthyagi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/MayankLuthyagi)](https://holopin.io/@MayankLuthyagi)
-
-<br />
-
-![](https://ForTheBadge.com/images/badges/built-with-love.svg)
 
 ![](https://img.shields.io/github/followers/MayankLuthyagi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
 
+<br />
 
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MayankLuthyagi&theme=onedark) -->
@@ -94,5 +88,3 @@ I believe in implementing the knowledge which you have. Projects play a signific
 
 
 ![](https://github.com/MayankLuthyagi/MayankLuthyagi/blob/main/bottom_header.svg)
-
-<p align="center"> With ❤️ from India </p>
