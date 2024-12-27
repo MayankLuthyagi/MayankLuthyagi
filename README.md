@@ -67,8 +67,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MayankLuthyagi&theme=dark&show_icons=true&icon_color=blue" style="display: inline-block; height: 200px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankLuthyagi&theme=dark&show_icons=true&count_private=true" style="display: inline-block; height: 200px;" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MayankLuthyagi&theme=dark&show_icons=true&icon_color=blue" alt="MayankLuthyagi"/>
 </p>
 
+<br>
 
 ![](https://img.shields.io/github/followers/MayankLuthyagi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
 
