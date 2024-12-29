@@ -65,6 +65,7 @@
 ### **Thanks for checking out my GitHub Profile!** 🙏
 
 <p align="center">
+<!-- GitHub Stats with Dark Theme -->
 <img src="https://github-readme-stats.vercel.app/api?username=MayankLuthyagi&theme=dark&show_icons=true&icon_color=blue&count_private=true" style="display: inline-block; height: 200px;" />
 
 <!-- GitHub Top Languages with Compact Layout -->
