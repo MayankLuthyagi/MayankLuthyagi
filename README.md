@@ -66,11 +66,10 @@
 
 <p align="center">
 <!-- GitHub Stats with Dark Theme -->
-<img src="https://github-readme-stats.vercel.app/api?username=MayankLuthyagi&theme=dark&show_icons=true&icon_color=blue&count_private=true" style="display: inline-block; height: 200px;" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=MayankLuthyagi&theme=dark&show_icons=true&icon_color=blue&count_private=true&cache_seconds=1800" style="display: inline-block; height: 200px;" />
 <!-- GitHub Top Languages with Compact Layout -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankLuthyagi&layout=compact&langs_count=10&theme=dark" style="display: inline-block; height: 200px;" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MayankLuthyagi&theme=dark&show_icons=true&icon_color=blue" alt="MayankLuthyagi"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MayankLuthyagi&theme=dark&show_icons=true&icon_color=blue" alt="MayankLuthyagi"/>
 </p>
 
 <br>
