@@ -10,13 +10,14 @@
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=MayankLuthyagi&label=Profile%20views&color=6805D3&style=flat" alt="Mayank" /> </p></h3>
    <div align="center">
 
-
+- View or download my resume here: [📄 Resume](https://drive.google.com/file/d/1BdF-ColwD96crc1BeNoW4FCNdl-Jpr6k/view)
 - 🔭 Focusing on Full Stack Development (Frontend, Backend, and DevOps). 😎
 - 🌱 Working hard to become great at Full Stack development. ❤️
 - 💻 I enjoy trying out new technologies and building fun projects. 🚀
 - 🥅 2025 Goal: Learn AWS Cloud and improve in DevOps. ☁️
 - ⚡ Fun Fact: In JavaScript, NaN is a number. Crazy, right? 🤯
 - 🤖 Always exploring ways to make coding smarter and more fun! 😄
+
 
 
 <br />
