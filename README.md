@@ -10,7 +10,7 @@
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=MayankLuthyagi&label=Profile%20views&color=6805D3&style=flat" alt="Mayank" /> </p></h3>
    <div align="center">
 
-- 📄 View or download my resume here: [Resume](https://drive.google.com/file/d/1NHAeQc6braiKHKRLKsMeMqrSf1W71cNM/view?usp=sharing)
+- 📄 View or download my resume here: [Resume]()
 - 🔭 Focusing on Full Stack Development (Frontend, Backend, and DevOps). 😎
 - 🌱 Working hard to become great at Full Stack development. ❤️
 - 💻 I enjoy trying out new technologies and building fun projects. 🚀
