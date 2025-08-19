@@ -70,7 +70,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MayankLuthyagi&theme=dark&show_icons=true&icon_color=blue&count_private=true&cache_seconds=1800" style="display: inline-block; height: 200px;" />
 <!-- GitHub Top Languages with Compact Layout -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankLuthyagi&layout=compact&langs_count=10&theme=dark" style="display: inline-block; height: 200px;" />
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MayankLuthyagi&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=MayankLuthyagi&include_all_commits=true&hide_border=true" alt="GitHub Streak" />
+</a>
 </p>
 
 <br>
