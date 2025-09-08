@@ -2,13 +2,15 @@ name: Auto Update GitHub Stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # every 6 hours
-  workflow_dispatch:
+    - cron: "0 */6 * * *" # Runs every 6 hours
+  workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    # Grant the workflow permission to push changes to the repository
+    
+    # Grant the workflow permission to push changes to the repository.
+    # This is the fix for the "Permission denied" error.
     permissions:
       contents: write
       
@@ -21,18 +23,20 @@ jobs:
           RAND=$RANDOM
           echo "Updating README.md with RAND=$RAND"
           
-          # Update GitHub Stats URL
-          sed -i "s|https://github-readme-stats.vercel.app/api?username=MayankLuthyagi.*|https://github-readme-stats.vercel.app/api?username=MayankLuthyagi&count_private=true&include_all_commits=true&cache_seconds=1&rand=$RAND|g" README.md
+          # This is the fix for the broken README file.
+          # It uses a non-greedy match '[^"]*' to only replace the URL inside the quotes,
+          # preventing it from deleting the rest of the HTML tag.
+          sed -i 's|https://github-readme-stats.vercel.app/api?username=MayankLuthyagi[^"]*|https://github-readme-stats.vercel.app/api?username=MayankLuthyagi&count_private=true&include_all_commits=true&cache_seconds=1&rand='"$RAND"'|g' README.md
           
-          # Update Streak Stats URL
-          sed -i "s|https://streak-stats.demolab.com?user=MayankLuthyagi.*|https://streak-stats.demolab.com?user=MayankLuthyagi&include_all_commits=true&rand=$RAND|g" README.md
+          sed -i 's|https://streak-stats.demolab.com?user=MayankLuthyagi[^"]*|https://streak-stats.demolab.com?user=MayankLuthyagi&include_all_commits=true&rand='"$RAND"'|g' README.md
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          # Use "git diff" to check if there are changes to commit
+          
+          # Check if there are any changes to commit before proceeding
           if ! git diff --staged --quiet; then
             git commit -m "Auto-refresh GitHub Stats URLs [skip ci]"
             git push
