@@ -66,13 +66,10 @@
 ### **Thanks for checking out my GitHub Profile!** 🙏
 
 <p align="center">
-<!-- GitHub Stats with Dark Theme -->
-<img src="https://github-readme-stats.vercel.app/api?username=MayankLuthyagihttps://github-readme-stats.vercel.app/api?username=MayankLuthyagi&count_private=true&theme=dark&show_icons=true&icon_color=blue&v=1&cache_seconds=1&rand=12345" style="display: inline-block; height: 200px;" />count_private=truehttps://github-readme-stats.vercel.app/api?username=MayankLuthyagi&count_private=true&theme=dark&show_icons=true&icon_color=blue&v=1&cache_seconds=1&rand=12345" style="display: inline-block; height: 200px;" />include_all_commits=truehttps://github-readme-stats.vercel.app/api?username=MayankLuthyagi&count_private=true&theme=dark&show_icons=true&icon_color=blue&v=1&cache_seconds=1&rand=12345" style="display: inline-block; height: 200px;" />cache_seconds=1https://github-readme-stats.vercel.app/api?username=MayankLuthyagi&count_private=true&theme=dark&show_icons=true&icon_color=blue&v=1&cache_seconds=1&rand=12345" style="display: inline-block; height: 200px;" />rand=27030
-<!-- GitHub Top Languages with Compact Layout -->
+<img src="https://github-readme-stats.vercel.app/api?username=MayankLuthyagi&count_private=true&theme=dark&show_icons=true&icon_color=blue" style="display: inline-block; height: 200px;" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankLuthyagi&layout=compact&langs_count=10&theme=dark" style="display: inline-block; height: 200px;" />
-<!-- Github Contribution -->
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=MayankLuthyagihttps://streak-stats.demolab.com?user=MayankLuthyagi&include_all_commits=true&hide_border=true" alt="GitHub Streak" />include_all_commits=truehttps://streak-stats.demolab.com?user=MayankLuthyagi&include_all_commits=true&hide_border=true" alt="GitHub Streak" />rand=27030
+  <img src="https://streak-stats.demolab.com?user=MayankLuthyagi&include_all_commits=true&hide_border=true" alt="GitHub Streak" />
 </a>
 </p>
 
