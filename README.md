@@ -67,12 +67,12 @@
 
 <p align="center">
 <!-- GitHub Stats with Dark Theme -->
-<img src="https://github-readme-stats.vercel.app/api?username=MayankLuthyagi&count_private=true&theme=dark&show_icons=true&icon_color=blue&v=1&cache_seconds=1&rand=12345" style="display: inline-block; height: 200px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=MayankLuthyagihttps://github-readme-stats.vercel.app/api?username=MayankLuthyagi&count_private=true&theme=dark&show_icons=true&icon_color=blue&v=1&cache_seconds=1&rand=12345" style="display: inline-block; height: 200px;" />count_private=truehttps://github-readme-stats.vercel.app/api?username=MayankLuthyagi&count_private=true&theme=dark&show_icons=true&icon_color=blue&v=1&cache_seconds=1&rand=12345" style="display: inline-block; height: 200px;" />include_all_commits=truehttps://github-readme-stats.vercel.app/api?username=MayankLuthyagi&count_private=true&theme=dark&show_icons=true&icon_color=blue&v=1&cache_seconds=1&rand=12345" style="display: inline-block; height: 200px;" />cache_seconds=1https://github-readme-stats.vercel.app/api?username=MayankLuthyagi&count_private=true&theme=dark&show_icons=true&icon_color=blue&v=1&cache_seconds=1&rand=12345" style="display: inline-block; height: 200px;" />rand=27030
 <!-- GitHub Top Languages with Compact Layout -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankLuthyagi&layout=compact&langs_count=10&theme=dark" style="display: inline-block; height: 200px;" />
 <!-- Github Contribution -->
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=MayankLuthyagi&include_all_commits=true&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=MayankLuthyagihttps://streak-stats.demolab.com?user=MayankLuthyagi&include_all_commits=true&hide_border=true" alt="GitHub Streak" />include_all_commits=truehttps://streak-stats.demolab.com?user=MayankLuthyagi&include_all_commits=true&hide_border=true" alt="GitHub Streak" />rand=27030
 </a>
 </p>
 
@@ -91,7 +91,7 @@
 </p>
 
 <!--<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=MayankLuthyagi&show_icons=true&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=MayankLuthyagihttps://github-readme-stats.vercel.app/api?username=MayankLuthyagi&show_icons=true&theme=vision-friendly-dark">count_private=truehttps://github-readme-stats.vercel.app/api?username=MayankLuthyagi&show_icons=true&theme=vision-friendly-dark">include_all_commits=truehttps://github-readme-stats.vercel.app/api?username=MayankLuthyagi&show_icons=true&theme=vision-friendly-dark">cache_seconds=1https://github-readme-stats.vercel.app/api?username=MayankLuthyagi&show_icons=true&theme=vision-friendly-dark">rand=27030
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankLuthyagi&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>-->
 
