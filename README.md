@@ -84,8 +84,9 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MayankLuthyagi&theme=onedark) -->
 
+<!-- Real Commit Graph -->
 <p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayankLuthyagi&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 <!--<p align="center">
