@@ -1,4 +1,4 @@
-name: Auto Refresh GitHub Stats
+name: Auto Update GitHub Stats
 
 on:
   schedule:
@@ -6,15 +6,31 @@ on:
   workflow_dispatch:
 
 jobs:
-  refresh-stats:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate random number
         id: rand
         run: echo "RAND=$RANDOM" >> $GITHUB_ENV
 
-      - name: Fetch GitHub Stats with random query
+      - name: Update README stats URLs
         run: |
-          echo "Refreshing GitHub Stats..."
-          curl -s "https://github-readme-stats.vercel.app/api?username=MayankLuthyagi&count_private=true&include_all_commits=true&cache_seconds=1&rand=$RAND&v=1"
-          curl -s "https://streak-stats.demolab.com?user=MayankLuthyagi&include_all_commits=true&rand=$RAND"
+          RAND=$RANDOM
+          echo "Updating README.md with RAND=$RAND"
+          
+          # Update GitHub Stats URL
+          sed -i "s|https://github-readme-stats.vercel.app/api?username=MayankLuthyagi.*|https://github-readme-stats.vercel.app/api?username=MayankLuthyagi&count_private=true&include_all_commits=true&cache_seconds=1&rand=$RAND|g" README.md
+          
+          # Update Streak Stats URL
+          sed -i "s|https://streak-stats.demolab.com?user=MayankLuthyagi.*|https://streak-stats.demolab.com?user=MayankLuthyagi&include_all_commits=true&rand=$RAND|g" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Auto-refresh GitHub Stats URLs [skip ci]" || echo "No changes to commit"
+          git push
