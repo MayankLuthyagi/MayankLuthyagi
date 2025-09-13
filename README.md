@@ -66,7 +66,7 @@
 ### **Thanks for checking out my GitHub Profile!** 🙏
 
 <p align="center">
-<img src="https://github-readme-stats-jet-one-34.vercel.app/api?username=MayankLuthyagi&count_private=true&theme=dark&show_icons=true&icon_color=blue&rand=32138" style="display: inline-block; height: 200px;" />
+<img src="https://github-readme-stats-jet-one-34.vercel.app/api?username=MayankLuthyagi&count_private=true&theme=dark&show_icons=true&icon_color=blue&rand=15543" style="display: inline-block; height: 200px;" />
 <img src="https://github-readme-stats-jet-one-34.vercel.app/api/top-langs/?username=MayankLuthyagi&layout=compact&langs_count=10&theme=dark&count_private=true" style="display: inline-block; height: 200px;" />
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=MayankLuthyagi&hide_border=true&theme=dark&" alt="GitHub Streak" />
