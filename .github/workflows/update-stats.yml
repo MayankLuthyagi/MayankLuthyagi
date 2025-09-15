@@ -7,41 +7,31 @@ on:
   schedule:
     # Runs every 6 hours to keep the stats reasonably up-to-date.
     - cron: "0 */6 * * *"
-  # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
-    # Grant the workflow permission to write to the repository contents.
-    # This is essential for pushing the updated README.md file.
     permissions:
       contents: write
 
     steps:
-      # Step 1: Check out the repository's code
-      # Uses @v4 for the latest features and security patches.
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Step 2: Update the README file with new cache-busting URLs
       - name: Update README stats URLs
-        # We use the github.repository_owner context variable to get the username.
-        # This makes the workflow portable and reusable without hardcoding the username.
         env:
           GH_OWNER: ${{ github.repository_owner }}
         run: |
-          # Generate a random number to bust the image cache for the stats cards.
           CACHE_BUSTER=$RANDOM
           echo "Updating README for user: $GH_OWNER with cache buster: $CACHE_BUSTER"
+
+          # --- Main Stats Card (Official) ---
+          sed -i "s|https://github-readme-stats.vercel.app/api?username=[^\"]*|https://github-readme-stats.vercel.app/api?username=${GH_OWNER}\&count_private=true\&theme=dark\&show_icons=true\&icon_color=blue\&rand=${CACHE_BUSTER}|g" README.md
           
-          # --- Main Stats Card (Self-Hosted) ---
-          # Replaces the entire URL to ensure all parameters are correct and adds the cache buster.
-          sed -i "s|https://github-readme-stats-jet-one-34.vercel.app/api?username=[^\"]*|https://github-readme-stats-jet-one-34.vercel.app/api?username=${GH_OWNER}\&count_private=true\&theme=dark\&show_icons=true\&icon_color=blue\&rand=${CACHE_BUSTER}|g" README.md
-          
-          # --- Top Languages Card (Self-Hosted) ---
-          sed -i "s|https://github-readme-stats-jet-one-34.vercel.app/api/top-langs/\?username=[^\"]*|https://github-readme-stats-jet-one-34.vercel.app/api/top-langs/?username=${GH_OWNER}\&layout=compact\&langs_count=10\&theme=dark\&count_private=true\&rand=${CACHE_BUSTER}|g" README.md
+          # --- Top Languages Card (Official) ---
+          sed -i "s|https://github-readme-stats.vercel.app/api/top-langs/\?username=[^\"]*|https://github-readme-stats.vercel.app/api/top-langs/?username=${GH_OWNER}\&layout=compact\&langs_count=10\&theme=dark\&count_private=true\&rand=${CACHE_BUSTER}|g" README.md
 
           # --- Streak Stats Card ---
           sed -i "s|https://streak-stats.demolab.com\?user=[^\"]*|https://streak-stats.demolab.com?user=${GH_OWNER}\&include_all_commits=true\&hide_border=true\&rand=${CACHE_BUSTER}|g" README.md
@@ -49,20 +39,14 @@ jobs:
           # --- Activity Graph ---
           sed -i "s|https://github-readme-activity-graph.vercel.app/graph\?username=[^\"]*|https://github-readme-activity-graph.vercel.app/graph?username=${GH_OWNER}\&theme=react-dark\&hide_border=true\&area=true\&rand=${CACHE_BUSTER}|g" README.md
 
-      # Step 3: Commit the changes back to the repository
       - name: Commit and push changes
         run: |
-          # Configure git with the credentials of the github-actions bot.
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          
-          # Check if there are any changes to commit before proceeding.
-          # This prevents creating empty commits if the script didn't change any files.
           if ! git diff --staged --quiet; then
             git commit -m "Auto-refresh GitHub Stats URLs [skip ci]"
             git push
           else
             echo "No changes to commit."
           fi
-
