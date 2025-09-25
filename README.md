@@ -66,7 +66,7 @@
 ### **Thanks for checking out my GitHub Profile!** 🙏
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MayankLuthyagi&count_private=true&theme=dark&show_icons=true&icon_color=blue&rand=31806" style="display: inline-block; height: 200px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=MayankLuthyagi&count_private=true&theme=dark&show_icons=true&icon_color=blue&rand=15390" style="display: inline-block; height: 200px;" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankLuthyagi&layout=compact&langs_count=10&theme=dark&count_private=true" style="display: inline-block; height: 200px;" />
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=MayankLuthyagi&hide_border=true&theme=dark&" alt="GitHub Streak" />
@@ -88,7 +88,7 @@
 </p>
 
 <!--<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=MayankLuthyagi&count_private=true&theme=dark&show_icons=true&icon_color=blue&rand=31806">count_private=truehttps://github-readme-stats.vercel.app/api?username=MayankLuthyagi&count_private=true&theme=dark&show_icons=true&icon_color=blue&rand=31806">include_all_commits=truehttps://github-readme-stats.vercel.app/api?username=MayankLuthyagi&count_private=true&theme=dark&show_icons=true&icon_color=blue&rand=31806">cache_seconds=1https://github-readme-stats.vercel.app/api?username=MayankLuthyagi&count_private=true&theme=dark&show_icons=true&icon_color=blue&rand=31806">rand=27030
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=MayankLuthyagi&count_private=true&theme=dark&show_icons=true&icon_color=blue&rand=15390">count_private=truehttps://github-readme-stats.vercel.app/api?username=MayankLuthyagi&count_private=true&theme=dark&show_icons=true&icon_color=blue&rand=15390">include_all_commits=truehttps://github-readme-stats.vercel.app/api?username=MayankLuthyagi&count_private=true&theme=dark&show_icons=true&icon_color=blue&rand=15390">cache_seconds=1https://github-readme-stats.vercel.app/api?username=MayankLuthyagi&count_private=true&theme=dark&show_icons=true&icon_color=blue&rand=15390">rand=27030
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankLuthyagi&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>-->
 
