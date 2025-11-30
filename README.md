@@ -1,6 +1,6 @@
 <!-- Header GIF -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif" alt="header" />
+  <img src="https://d3rshtj5w2m4qx.cloudfront.net/7lzfm%2Fpreview%2F73270641%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1764532609&Signature=LgHYU9HuWZga74wykUgVUUYurcAXu8zld7Xnuurm~wjrV8J1i9z4spuom6LqbO5-MdkhuLK-MQH-IanS6MCSY7hnwXXymyUZonQMFgGobdGnuYuQJcxVQVisVgv0XS8O6vcbkwq0XH-K7QV57UeRcoLLpQaPcypSN3NYNrj~5JdxKFQFF8FFC4r8PgBVLGj7cJCvKf15IFdSzZOKSbR~jiN~JuASRJRSLP9Ve5Sys3XVnde-hjPcs4SNSK0igtWsXiyt3RqcCfMjukiryXOm5QdjFOL0QjOGh08iph5WU4EBoAMV3JwNo7f88L7D2hDljWHUFi2Ik25UknRMtS4kDw__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" alt="header" />
 </p>
 
 <p align="center">
@@ -87,9 +87,6 @@ Currently expanding my skills in <b>AWS Cloud</b> and <b>DevOps</b>.
 <p align="center">
 
 <img height="200" src="https://github-readme-stats-one-bice.vercel.app/api?username=MayankLuthyagi&count_private=true&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=000000" />
-
-<img height="200" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MayankLuthyagi&layout=compact&langs_count=10&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=000000" />
-
 <img height="200" src="https://streak-stats.demolab.com?user=MayankLuthyagi&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
 
 </p>
