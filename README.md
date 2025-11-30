@@ -18,7 +18,8 @@
 <p align="center" style="color:white;">
 I'm a <b>Full-Stack Developer</b> focused on building clean, efficient, and scalable applications.<br>
 I enjoy exploring modern technologies and working on real-world projects.<br>
-Currently expanding my skills in <b>AWS Cloud</b> and <b>DevOps</b>.
+Currently expanding my skills in <b>AWS Cloud</b> and <b>DevOps</b>.<br>
+Resume - <a href="https://drive.google.com/drive/folders/1iPKquyXYmwCSOo28gfG36EDJZJQiKRu2?usp=drive_link">Link</a>
 </p>
 
 ---
