@@ -25,50 +25,59 @@ Currently expanding my skills in <b>AWS Cloud</b> and <b>DevOps</b>.
 
 <h2 align="center">Tech Stack</h2>
 
+<!-- Languages -->
+<h3 align="center">Languages</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=000000"/>
+<img src="https://img.shields.io/badge/PHP-FFFFFF?style=for-the-badge&logo=php&logoColor=000000"/>
+<img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=000000"/>
 </p>
 
+<!-- Frontend -->
 <h3 align="center">Frontend</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=000000"/>
+<img src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=000000"/>
+<img src="https://img.shields.io/badge/TailwindCSS-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=000000"/>
+<img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=000000"/>
 </p>
 
+<!-- Backend -->
 <h3 align="center">Backend & Databases</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-FFFFFF?style=for-the-badge&logo=springboot&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=000000"/>
+<img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=000000"/>
+<img src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=000000"/>
+<img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=000000"/>
 </p>
 
-<h3 align="center">DevOps & Tools</h3>
+<!-- DevOps -->
+<h3 align="center">DevOps & Cloud</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000"/>
+<img src="https://img.shields.io/badge/AWS-FFFFFF?style=for-the-badge&logo=amazonaws&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Render-FFFFFF?style=for-the-badge&logo=render&logoColor=000000"/>
 </p>
+
 
 ---
 
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mayank012"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a><!--
---><a href="mailto:mayankluthyagico@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a><!--
---><a href="https://leetcode.com/u/mayankluthyagi/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white"/></a><!--
---><a href="https://www.codechef.com/users/mayank_singh12"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=CodeChef&logoColor=white"/></a><!--
---><a href="https://codeforces.com/profile/mayanksingh_12"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white"/></a><!--
---><a href="https://www.figma.com/@mayank_singh"><img alt="Figma" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/></a><!--
---><a href="https://x.com/MayankLuthyagi"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mayank012"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000"/></a><!--
+--><a href="mailto:mayankluthyagico@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000"/></a><!--
+--><a href="https://leetcode.com/u/mayankluthyagi/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=000000"/></a><!--
+--><a href="https://www.codechef.com/users/mayank_singh12"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-FFFFFF?style=for-the-badge&logo=CodeChef&logoColor=000000"/></a><!--
+--><a href="https://codeforces.com/profile/mayanksingh_12"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-FFFFFF?style=for-the-badge&logo=codeforces&logoColor=000000"/></a><!--
+--><a href="https://www.figma.com/@mayank_singh"><img alt="Figma" src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=000000"/></a><!--
+--><a href="https://x.com/MayankLuthyagi"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=000000"/></a>
 </p>
 
 ---
