@@ -90,7 +90,7 @@ Currently expanding my skills in <b>AWS Cloud</b> and <b>DevOps</b>.
 <h2 align="center">Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayankLuthyagi&theme=react-dark&hide_border=true&area=true&color=ffffff&point=ffffff"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayankLuthyagi&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true"/>
 </p>
 
 ---
