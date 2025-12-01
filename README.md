@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MayankLuthyagi&label=Profile+Views&color=000000&style=flat" />
-</p>
 <!-- Header GIF -->
 <p align="center">
   <img src="https://d3rshtj5w2m4qx.cloudfront.net/7lzfm%2Fpreview%2F73270641%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1764532609&Signature=LgHYU9HuWZga74wykUgVUUYurcAXu8zld7Xnuurm~wjrV8J1i9z4spuom6LqbO5-MdkhuLK-MQH-IanS6MCSY7hnwXXymyUZonQMFgGobdGnuYuQJcxVQVisVgv0XS8O6vcbkwq0XH-K7QV57UeRcoLLpQaPcypSN3NYNrj~5JdxKFQFF8FFC4r8PgBVLGj7cJCvKf15IFdSzZOKSbR~jiN~JuASRJRSLP9Ve5Sys3XVnde-hjPcs4SNSK0igtWsXiyt3RqcCfMjukiryXOm5QdjFOL0QjOGh08iph5WU4EBoAMV3JwNo7f88L7D2hDljWHUFi2Ik25UknRMtS4kDw__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" alt="header" />
